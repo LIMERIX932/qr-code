@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.button {
+    border: none;
+    background: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 16px;
+    padding: 8px 16px;
+}
+.line{
+    border-bottom: 2px solid black;
+}
